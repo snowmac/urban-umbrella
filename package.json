@@ -1,0 +1,21 @@
+{
+  "name": "adams-crypto-bot",
+  "version": "1.0.0",
+  "description": "Crypto arbitrage bot for identifying and executing profitable trades across exchanges.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "cryptocurrency",
+    "arbitrage",
+    "bot",
+    "trading"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^16.4.5"
+  }
+}
